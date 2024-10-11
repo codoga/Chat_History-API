@@ -1,0 +1,23 @@
+{
+  "name": "part-1-node.js-api-testing-and-bug-fixing",
+  "version": "1.0.0",
+  "description": "Node.js API for logging chat histories",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.0.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
