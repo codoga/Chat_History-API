@@ -15,7 +15,7 @@ user_id (string): User ID.
 chat_history (array): User's chat history.
 
 ### Sample Request:
-'''js
+```js
 {
   "user_id": "user123",
   "chat_history": [
