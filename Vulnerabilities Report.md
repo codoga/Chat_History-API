@@ -38,7 +38,7 @@ return res.status(400).json({
     message: 'Invalid input.'
 });
 ```
-
-As conclusion, my changes have increased the security of the API. 
+## 3. Consequent
+As a conclusion, my changes have increased the security of the API. 
 Input validation and data validation checks have been added to prevent malicious logins. 
 The tests have passed successfully and the security of the API has been increased.
